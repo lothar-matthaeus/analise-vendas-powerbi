@@ -58,15 +58,14 @@ O dashboard foi projetado para apresentar indicadores principais de vendas:
 - Receita por estado
 - Receita por marca
 
-![Preview do Dashboard](images/dashboard-preview.png)
+![Preview](./images/dashboard-preview.png)
 
 ---
 
 ## Principais insights
 
-A análise indicou uma **alta concentração geográfica da receita**, com mais de **60% do faturamento vindo do estado de São Paulo**, sugerindo dependência significativa de um único mercado.
-
-Isso pode representar um risco estratégico para o negócio caso haja variações econômicas ou operacionais nessa região.
+- A análise indicou uma **alta concentração geográfica da receita**, com mais de **60% do faturamento vindo do estado de São Paulo**, sugerindo dependência significativa de um único mercado.
+- Isso pode representar um risco estratégico para o negócio caso haja variações econômicas ou operacionais nessa região.
 
 ---
 

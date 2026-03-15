@@ -59,6 +59,7 @@ O dashboard foi projetado para apresentar indicadores principais de vendas:
 - Receita por marca
 
 ![Preview]([https://github.com/lothar-matthaeus/analise-vendas-powerbi/blob/682892991512ce90e8f57db03d9770e430d043db/images/%20%20%20%20%20dashboard-preview.png)
+
 ---
 
 ## Principais insights

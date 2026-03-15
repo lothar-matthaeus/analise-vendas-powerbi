@@ -60,6 +60,7 @@ O dashboard foi projetado para apresentar indicadores principais de vendas:
 
 ![Preview do Dashboard](images/dashboard-preview.png)
 
+
 ---
 
 ## Principais insights

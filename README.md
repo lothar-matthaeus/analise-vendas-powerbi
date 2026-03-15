@@ -58,7 +58,9 @@ O dashboard foi projetado para apresentar indicadores principais de vendas:
 - Receita por estado
 - Receita por marca
 
-![Preview do Dashboard](images/dashboard-preview.png)
+<p align="center">
+  <img src="./images/dashboard-preview.png" width="900">
+</p>
 
 ---
 

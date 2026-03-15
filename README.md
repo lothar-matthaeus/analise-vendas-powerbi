@@ -58,7 +58,7 @@ O dashboard foi projetado para apresentar indicadores principais de vendas:
 - Receita por estado
 - Receita por marca
 
-images/dashboard-preview.png
+![Preview do Dashboard](dashboard/dashboard-preview.png)
 
 ---
 
@@ -69,23 +69,6 @@ A análise indicou uma **alta concentração geográfica da receita**, com mais 
 Isso pode representar um risco estratégico para o negócio caso haja variações econômicas ou operacionais nessa região.
 
 ---
-
-## Estrutura do repositório
-
-
-analise-vendas-powerbi
-│
-├── dashboard
-│ └── dashboard-analise-vendas.pbix
-│
-├── images
-│ └── dashboard-preview.png
-│
-├── sql
-│ └── queries.sql
-│
-└── README.md
-
 
 ## Autor
 

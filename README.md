@@ -22,7 +22,6 @@ Responder algumas perguntas de negócio:
 - SQL
 - Power BI
 - DAX
-- Modelagem dimensional (Star Schema)
 
 ---
 
@@ -40,9 +39,6 @@ O modelo foi estruturado utilizando um esquema estrela:
 
 As queries utilizadas para criação dessas views estão disponíveis na pasta:
 sql/queries.sql
-
-sql/queries.sql
-
 
 ---
 
@@ -62,7 +58,7 @@ O dashboard foi projetado para apresentar indicadores principais de vendas:
 - Receita por estado
 - Receita por marca
 
-![Dashboard](images/dashboard-preview.png)
+![dashboard](images/dashboard-preview.png)
 
 ---
 
@@ -90,8 +86,6 @@ analise-vendas-powerbi
 │
 └── README.md
 
-
----
 
 ## Autor
 

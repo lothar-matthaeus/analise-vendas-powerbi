@@ -19,7 +19,7 @@ Responder algumas perguntas de negócio:
 
 ## Tecnologias utilizadas
 
-- SQL
+- SQL para preparação e modelagem de dados das views utilizadas
 - Power BI
 - DAX
 
@@ -38,7 +38,7 @@ O modelo foi estruturado utilizando um esquema estrela:
 - `DIM_TEMPO`
 
 As queries utilizadas para criação dessas views estão disponíveis na pasta:
-sql/queries.sql
+`sql/queries.sql`
 
 ---
 
@@ -57,6 +57,8 @@ O dashboard foi projetado para apresentar indicadores principais de vendas:
 - Evolução da receita ao longo do tempo
 - Receita por estado
 - Receita por marca
+
+---
 
 ![Preview do Dashboard](imagens/dashboard-preview.png)
 
